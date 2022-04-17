@@ -1,0 +1,5 @@
+# Ignore credential and token files 
+token.json
+credentials.json
+button_data.json
+presentation_data.json
