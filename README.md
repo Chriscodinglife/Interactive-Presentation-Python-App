@@ -7,7 +7,7 @@
 
 Recently I found that onboarding new hires at any company can be a tidious and annoying task, Onboarding usually takes a similar approach at most companies where on day 1 users are asked to join a Zoom call, watch a presentation on how to setup their laptop or computer for their job, and hopefully by the end of the presentation they are ready to go. But this usually isn't the case...
 
-![Angry Panda](https://giphy.com/explore/panda-anger)
+![Angry Panda](https://media.giphy.com/media/12i3TW7x8vp7sQ/giphy.gif)
 
 What really ends up happening is that there are some stragglers in the group, others with questions, and others who are completely lost. Asking a large group to follow along with a presentation and have them manually set up their machines can be annoying, repetitive, and mundane. So I created this app to help mitigate this and get everyone on the same page quick.
 
