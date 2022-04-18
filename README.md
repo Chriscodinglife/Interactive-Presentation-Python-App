@@ -86,3 +86,4 @@ Here I show a quick example of running the script and having the app appear on s
 2. The Tkinter gui is locked down to a 1280 to 720 resolution. There are some hints in the script logic where I tried to tailor it to different resolutions
 3. Python Memory management sucks, so when you have longer presentations, your base64 image data will be a lot larger and can possibly slow your machine down. Just a warning of caution as you proceed.
 4. The script is limited to two buttons!
+6. Button color customization and progress bar is very limited!!
